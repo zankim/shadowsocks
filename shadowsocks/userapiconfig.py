@@ -1,5 +1,5 @@
 ﻿# Config
-NODE_ID = 17
+NODE_ID = 1
 
 
 # hour,set 0 to disable
@@ -14,7 +14,7 @@ MU_REGEX = '%5m%id.%suffix'
 SERVER_PUB_ADDR = '127.0.0.1'  # mujson_mgr need this to generate ssr link
 API_INTERFACE = 'glzjinmod'  # glzjinmod, modwebapi
 
-WEBAPI_URL = 'https://www2.avalyuan.com'
+WEBAPI_URL = 'https://xxxxxx.com'
 WEBAPI_TOKEN = 'glzjin'
 
 # mudb
@@ -28,9 +28,9 @@ MYSQL_PASS = 'Qaz150109'
 MYSQL_DB = 'sspanel'
 
 MYSQL_SSL_ENABLE = 1
-MYSQL_SSL_CA = '/root/mysqlssl/sspanel/ca.pem'
-MYSQL_SSL_CERT = '/root/mysqlssl/sspanel/client-cert.pem'
-MYSQL_SSL_KEY = '/root/mysqlssl/sspanel/client-key.pem'
+MYSQL_SSL_CA = '/root/ssr-server/mysqlssl/sspanel/ca.pem'
+MYSQL_SSL_CERT = '/root/ssr-server/mysqlssl/sspanel/client-cert.pem'
+MYSQL_SSL_KEY = '/root/ssr-server/mysqlssl/sspanel/client-key.pem'
 
 # API
 API_HOST = '127.0.0.1'
