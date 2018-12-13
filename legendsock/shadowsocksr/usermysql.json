@@ -1,0 +1,13 @@
+{
+    "host": "89.208.254.127",
+    "port": 3306,
+    "user": "legendsock",
+    "password": "Wsx150109",
+    "db": "legendsock",
+    "node_id": 0,
+    "transfer_mul": 1.0,
+    "ssl_enable": 1,
+    "ssl_ca": "/root/ssr-server/mysqlssl/legendsock/ca.pem",
+    "ssl_cert": "/root/ssr-server/mysqlssl/legendsock/client-cert.pem",
+    "ssl_key": "/root/ssr-server/mysqlssl/legendsock/client-key.pem"
+}
