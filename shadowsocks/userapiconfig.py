@@ -21,10 +21,10 @@ WEBAPI_TOKEN = 'glzjin'
 MUDB_FILE = 'mudb.json'
 
 # Mysql
-MYSQL_HOST = '89.208.254.57'
+MYSQL_HOST = '0.0.0.0'
 MYSQL_PORT = 3306
 MYSQL_USER = 'sspanel'
-MYSQL_PASS = 'Qaz150109'
+MYSQL_PASS = 'xxxxxxxx'
 MYSQL_DB = 'sspanel'
 
 MYSQL_SSL_ENABLE = 1
