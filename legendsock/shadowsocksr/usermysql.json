@@ -1,8 +1,8 @@
 {
-    "host": "89.208.254.57",
+    "host": "0.0.0.0",
     "port": 3306,
     "user": "legendsock",
-    "password": "Wsx150109",
+    "password": "xxxxxxxx",
     "db": "legendsock",
     "node_id": 0,
     "transfer_mul": 1.0,
